@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsX-India
-- 👀 I’m interested in HTML, Java, and Visual Basic Coding.
-- 🌱 I’m currently learning HTML and Java
-- 💞️ I’m looking to collaborate on my website.
+- 👀 I’m interested in HTML, Python, , C++, Java, and Visual Basic Coding.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on my website and projects.
 - 📫 You can reach me by mailing me.
 
 <!---
